@@ -19,3 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# atar-gdudi" 
 "# atar-gdudi" 
+"# atar-gdud" 
